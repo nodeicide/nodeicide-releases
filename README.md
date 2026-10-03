@@ -66,11 +66,11 @@ bash: /home/user/.local/bin/nodeicide: No such file or directory
 
 ### Solution
 install 'patchelf' so you can fix binaries ELF interpreter
-'''
+```
 # On Debian/Ubuntu
 sudo apt install patchelf
 patchelf --set-interpreter /lib64/ld-linux-x86-64.so.2 ~/.local/bin/nodeicide
-'''
+```
 
 >[!WARNING]
 > NODEICIDE COMES AS IS
