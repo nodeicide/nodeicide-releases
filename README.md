@@ -21,7 +21,7 @@ Nodeicide is an automated, self-serve correctness testing engine written in Rust
 
 ## How to install
 ```
-$curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/nodeicide/nodeicide-releases/main/install.sh | bash
+$ curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/nodeicide/nodeicide-releases/main/install.sh | bash
 ```
 
 ---
