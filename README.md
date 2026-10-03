@@ -62,6 +62,7 @@ If you download the pre-compiled binary on standard Linux distributions and enco
 
 ```text
 bash: /home/user/.local/bin/nodeicide: No such file or directory
+```
 
 >[!WARNING]
 > NODEICIDE COMES AS IS
