@@ -54,6 +54,15 @@ pick:
 1 or 2:
 ```
 
+## Troubleshooting
+
+### "No such file or directory" or Linker / Dynamic Loading Errors on Non-NixOS Distros (Debian, Ubuntu, Fedora)
+
+If you download the pre-compiled binary on standard Linux distributions and encounter an error like:
+
+```text
+bash: /home/user/.local/bin/nodeicide: No such file or directory
+
 >[!WARNING]
 > NODEICIDE COMES AS IS
 
